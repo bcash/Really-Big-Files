@@ -8,6 +8,10 @@ template ID, and your API key and you are ready to upload some Really Big Files.
 * Works seamlessly with Transloadit, a very simple upload service.
 * Set up your TransloadIt template, plug in your creds, and BOOM.  Upload away.
 
+## Preview
+
+Download the [documentation PDF](https://github.com/bcash/Really-Big-Files/blob/master/ReallyBigFilesPlugin-Documentation.pdf) for a quick overview of installing, configuring, using, and a real world example of the plugin being used to upload mp3 files to a sermon podcast.
+
 ## Contents
 
 The Really Big Files Uploader includes the following files:
@@ -16,6 +20,21 @@ The Really Big Files Uploader includes the following files:
 * A subdirectory called `plugin-name` that represents the core plugin file.
 
 ## Installation
+
+### WordPress Directory
+
+RBF is not yet available in the WordPress directory.  Approval is pending.
+
+### ZIP file Upload
+
+1. Download the [zip file](https://github.com/bcash/Really-Big-Files/blob/master/really-big-files.zip) from this repo
+1. Sign in to your WP Dashboard.
+2. Click "Plugins"
+3. Click "Upload"
+4. Select the really-big-files.zip file, click "Install Now"
+5. Click "Activate Plugin"
+
+### Manual Installation
 
 1. Copy the `plugin-name` directory into your `wp-content/plugins` directory
 2. Navigate to the *Plugins* dashboard page
